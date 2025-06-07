@@ -1,2 +1,2 @@
 # -ELX-DOGOS-
-git commit -m ‘狗狗，回家了。’
+git commit -m ‘for claude’
